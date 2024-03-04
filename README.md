@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 Estudando HTML5 e CSS3
 <!--
 **nidondori/nidondori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
