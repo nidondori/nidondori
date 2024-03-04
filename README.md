@@ -1,6 +1,12 @@
 ### Olá 👋
 
 - 🌱 Estudando HTML5 e CSS3
+
+<div>
+  <a href="https://github.com/nidondori">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nidondori&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidondori&layout=compact&langs_count=16&theme=cobalt"/>
+</div>
 <!--
 **nidondori/nidondori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
